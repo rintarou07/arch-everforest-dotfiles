@@ -1,0 +1,22 @@
+
+
+- Distro: Arch
+- DE: Hyprland
+- Text editor: Vim
+- Code Editor: Vim and Vscodium
+- App Launcher: rofi 
+- Take note: Obsidian
+- terminal: foot
+- shell: zsh
+- Bar: hyprpanel
+- GTK theme: Everforest (https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme)
+- Cursor theme: Everforest (https://github.com/talwat/everforest-cursors)
+- Wallpapers: take from Apeiros (https://box.apeiros.xyz/public/everforest_walls/)
+- QT theme: from Kvantum with Everforest theme(https://github.com/SirEthanator/Hyprland-Dots/tree/main/.config/Kvantum/Everforest) *applied Kvantum by using qt6-ct*
+- Lock screen: hyprlock
+- Discord: Vesktop
+- PDF reader: Zathura
+- Theme Manager: Qt6-ct, Nwg-look, Gnome-tweaks, Kvantum
+- Image Editing: GIMP, Kolourpaint
+- Chrome-theme: Everforest (Userstyle i reconfig from catpucchin and gruvbox) https://github.com/rintarou07/arch-everforest-dotfiles/tree/main/chrome-themes
+- 
